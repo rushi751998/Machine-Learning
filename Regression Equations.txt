@@ -1,3 +1,4 @@
 1 - Simple linear equation =  b0+b1
 2 - Multiple linear equation =  
 3 - Polinomial regression
+4 - mmm
